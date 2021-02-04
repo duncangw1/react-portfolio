@@ -51,34 +51,46 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Begin Your Adventure",
+        "category":"Allows a user to find national parks in the state of their choice",
+        "image":"BYA0.png",
+        "url":"https://duncangw1.github.io/BeginYourAdventure/",
+        "github": "https://github.com/duncangw1/BeginYourAdventure"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Eat-Da-Burger!",
+        "category":"Simple burger logger that users can utilize to track all of the burgers they have devoured",
+        "image":"EatDaBurger0.png",
+        "url":"https://eat-da-burger-33.herokuapp.com/",
+        "github": "https://github.com/duncangw1/Burger"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"No-Brainer Trainer",
+        "category":"Makes the task of choosing a workout program super simple",
+        "image":"NoBrainerTrainer0.png",
+        "url":"https://nobrainertrainer.herokuapp.com/",
+        "github": "https://github.com/duncangw1/no-brainertrainer"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Weather Dashboard",
+        "category":"Provides both the current weather and the five day forecast for a city chosen by the user",
+        "image":"WeatherDashboard.png",
+        "url":"https://duncangw1.github.io/WeatherDashboard/",
+        "github": "https://github.com/duncangw1/WeatherDashboard"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Day Planner",
+        "category":"A simple calendar that allows users to save events for each hour of the work day",
+        "image":"DayPlanner.png",
+        "url":"https://duncangw1.github.io/DayPlanner/",
+        "github": "https://github.com/duncangw1/DayPlanner"
+      },
+      {
+        "title":"Code Quiz",
+        "category":"Timed JavaScript quiz with multiple-choice questions that gives immediate feedback for correct/wrong answers",
+        "image":"CodeQuiz.png",
+        "url":"https://duncangw1.github.io/CodeQuiz/",
+        "github": "https://github.com/duncangw1/CodeQuiz"
       }
     ]
   }
