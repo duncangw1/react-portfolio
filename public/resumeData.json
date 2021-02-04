@@ -3,7 +3,7 @@
     "name":"Gene Duncan",
     "description":"I am a Full Stack Software Developer based in Pinehurst, North Carolina",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I'm Gene Duncan, a Full Stack Developer. I am currently attending the Coding Bootcamp through UNC Chapel Hill. I hope to use these skills to launch a new career in Software/Web Development. My ideal job would involve remote work with flexible office work available. Immediately after this course I plan to pursue freelance opportunities until I am able to land a full-time Developer job. The main goal of freelancing will be to reinforce my coding skills. I expect to also learn new coding languages and gain real-world experience along the way. A few years down the line I hope to be progressing in the field and, eventually, I would like to launch my own startup building useful applications for both business and entertainment purposes.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "duncangw1@gmail.com",
     "phone": "555-555-5555",
@@ -15,8 +15,7 @@
       "state":"NC",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"images/GeneDuncanResume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -31,7 +30,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"JavaScript, jQuery, NodeJS, React, HTML 5, CSS 3, MySQL, MongoDB, Bootstrap, Git, Heroku, Webpack, Express, Handlebars, Sequelize, NPM",
     "education":[
       {
         "school":"Univeristy of North Carolina at Chapel Hill",
@@ -40,56 +39,14 @@
         "description":"MERN stack and various other tools and technologies."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Sandhills Community College",
+        "degree":"Associate's Degree in Accounting",
+        "graduated":"June 2017",
+        "description":"Learned accepted accounting principles, techniques, and practices in all areas of accounting."
       }
     ],
-    "work":[
-      {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
-    ],
-    "skills":[
-      {
-        "name":"JavaScript",
-        "level":"100%"
-      },
-      {
-        "name":"HTML 5",
-        "level":"100%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"100%"
-      },
-      {
-        "name":"CSS 3",
-        "level":"100%"
-      },
-      {
-        "name":"NodeJS",
-        "level":"100%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"100%"
-      },
-      {
-        "name":"MySQL",
-        "level":"100%"
-      }
-    ]
+    "work":[],
+    "skills":[]
   },
   "portfolio":{
     "projects": [
