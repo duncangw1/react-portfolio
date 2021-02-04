@@ -1,0 +1,97 @@
+{
+  "main": {
+    "name":"Gene Duncan",
+    "description":"I am a Full Stack Software Developer based in Pinehurst, North Carolina",
+    "image":"profilepic.jpg",
+    "bio":"I'm Gene Duncan, a Full Stack Developer. I am currently attending the Coding Bootcamp through UNC Chapel Hill. I hope to use these skills to launch a new career in Software/Web Development. My ideal job would involve remote work with flexible office work available. Immediately after this course I plan to pursue freelance opportunities until I am able to land a full-time Developer job. The main goal of freelancing will be to reinforce my coding skills. I expect to also learn new coding languages and gain real-world experience along the way. A few years down the line I hope to be progressing in the field and, eventually, I would like to launch my own startup building useful applications for both business and entertainment purposes.",
+    "contactmessage":"Reach out! Send me an email, I will review your inquiry and get back to you.",
+    "email": "duncangw1@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/duncangw1",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Pinehurst",
+      "state":"NC",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "resumedownload":"images/GeneDuncanResume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/geneduncangw1/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/duncangw1",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"JavaScript, jQuery, NodeJS, React, HTML 5, CSS 3, MySQL, MongoDB, Bootstrap, Git, Heroku, Webpack, Express, Handlebars, Sequelize, NPM",
+    "education":[
+      {
+        "school":"Univeristy of North Carolina at Chapel Hill",
+        "degree":"Certificate in Full Stack Web Development",
+        "graduated":"February 2021",
+        "description":"MERN stack and various other tools and technologies."
+      },
+      {
+        "school":"Sandhills Community College",
+        "degree":"Associate's Degree in Accounting",
+        "graduated":"June 2017",
+        "description":"Learned accepted accounting principles, techniques, and practices in all areas of accounting."
+      }
+    ],
+    "work":[],
+    "skills":[]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Begin Your Adventure",
+        "category":"Allows a user to find national parks in the state of their choice",
+        "image":"BYA0.png",
+        "url":"https://duncangw1.github.io/BeginYourAdventure/",
+        "github": "https://github.com/duncangw1/BeginYourAdventure"
+      },
+      {
+        "title":"Eat-Da-Burger!",
+        "category":"Simple burger logger that users can utilize to track all of the burgers they have devoured",
+        "image":"EatDaBurger0.png",
+        "url":"https://eat-da-burger-33.herokuapp.com/",
+        "github": "https://github.com/duncangw1/Burger"
+      },
+      {
+        "title":"No-Brainer Trainer",
+        "category":"Makes the task of choosing a workout program super simple",
+        "image":"NoBrainerTrainer0.png",
+        "url":"https://nobrainertrainer.herokuapp.com/",
+        "github": "https://github.com/duncangw1/no-brainertrainer"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"Provides both the current weather and the five day forecast for a city chosen by the user",
+        "image":"WeatherDashboard.png",
+        "url":"https://duncangw1.github.io/WeatherDashboard/",
+        "github": "https://github.com/duncangw1/WeatherDashboard"
+      },
+      {
+        "title":"Day Planner",
+        "category":"A simple calendar that allows users to save events for each hour of the work day",
+        "image":"DayPlanner.png",
+        "url":"https://duncangw1.github.io/DayPlanner/",
+        "github": "https://github.com/duncangw1/DayPlanner"
+      },
+      {
+        "title":"Code Quiz",
+        "category":"Timed JavaScript quiz with multiple-choice questions that gives immediate feedback for correct/wrong answers",
+        "image":"CodeQuiz.png",
+        "url":"https://duncangw1.github.io/CodeQuiz/",
+        "github": "https://github.com/duncangw1/CodeQuiz"
+      }
+    ]
+  }
+}

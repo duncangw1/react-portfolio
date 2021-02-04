@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,WACE,yBACA,YACA,gBACA,cAAgB","file":"static/css/main.b528ae6c.css","sourcesContent":[".githubBtn {\n  background-color: #fe6928;\n  padding: 5px;\n  margin-top: 10px;\n  font-size: 13px;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
