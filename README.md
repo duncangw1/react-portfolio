@@ -4,7 +4,7 @@
 
 ## Description
 
-The purpose of the React Portfolio application is to ... Please view the deployed application [here](https://duncangw1.github.io/react-portfolio/) or navigate to the [Installation](#installation) section below for instructions on how to run the application locally.
+The purpose of the React Portfolio application was to practice using React and become more proficient in its use. This porfolio contains real information, however it is not going to be updated in the future. Please view the deployed application [here](https://duncangw1.github.io/react-portfolio/) or navigate to the [Installation](#installation) section below for instructions on how to run the application locally. Also, here is a link to my current updated portfolio (seperate portfolio not using React): [Up-To-Date Portfolio](https://duncangw1.github.io/Portfolio/).
 
 ## Table of Contents
 
